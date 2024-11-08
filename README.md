@@ -1,6 +1,6 @@
 ## olá! sou Esther Tozzo 👋
 
-- 🔭 cursando o ensino médio técnico em TI
+- 🔭 ensino médio técnico em TI - FIAP
 - 📫 tozzo.est@gmail.com
 - ⚡ amo aprender coisas novas e busco cada vez mais conhecimento na área da tecnologia!
 
