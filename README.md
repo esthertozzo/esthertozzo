@@ -1,6 +1,5 @@
 ## olá! sou Esther Tozzo 👋
 
-- 😄 ela/dela
 - 🔭 cursando o ensino médio técnico em TI
 - 📫 tozzo.est@gmail.com
 - ⚡ amo aprender coisas novas e busco cada vez mais conhecimento na área da tecnologia!
