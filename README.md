@@ -1,4 +1,4 @@
-## olá! sou Esther Tozzo 👋
+## Olá! sou Esther Tozzo 👋
 
 - 🔭 ensino médio técnico em TI - FIAP
 - 📫 tozzo.est@gmail.com
