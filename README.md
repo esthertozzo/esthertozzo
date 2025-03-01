@@ -25,4 +25,4 @@
 ![AdobePhotoshop](https://img.shields.io/badge/-AdobePhotoshop-black?style=flat-square&logo=adobephotoshop)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esthertozzo&hide=TeX&layout=compact)
+
