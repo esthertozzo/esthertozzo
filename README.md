@@ -24,3 +24,5 @@
 ![AdobeIllustrator](https://img.shields.io/badge/-AdobeIllustrator-black?style=flat-square&logo=adobeillustrator)
 ![AdobePhotoshop](https://img.shields.io/badge/-AdobePhotoshop-black?style=flat-square&logo=adobephotoshop)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esthertozzo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="170" alt="languages graph"  />
