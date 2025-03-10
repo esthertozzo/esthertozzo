@@ -5,8 +5,8 @@
 - ⚡ amo aprender coisas novas e busco cada vez mais conhecimento na área da tecnologia!
 
 ## 🌐 social
-[![Linkedin Badge](https://img.shields.io/badge/-esthertozzo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/esthertozzo/)](https://www.linkedin.com/in/esthertozzo/)
-[![Instagram Badge](https://img.shields.io/badge/-esthertozzo-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/esthertozzo/?hl=pt-br)](https://instagram.com/esthertozzo)
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/esthertozzo/)](https://www.linkedin.com/in/esthertozzo/)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/esthertozzo/?hl=pt-br)](https://instagram.com/esthertozzo)
 
 ## 🚀💻 tecnologias
 
