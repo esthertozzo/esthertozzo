@@ -1,8 +1,7 @@
 ## Olá! sou Esther Tozzo 👋
 
-- 🔭 ensino médio técnico em TI - FIAP
+- 🔭 Engenharia de Software - FIAP
 - 📫 tozzo.est@gmail.com
-- ⚡ amo aprender coisas novas e busco cada vez mais conhecimento na área da tecnologia!
 
 ## 🌐 social
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/esthertozzo/)](https://www.linkedin.com/in/esthertozzo/)
