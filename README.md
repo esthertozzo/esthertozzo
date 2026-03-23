@@ -24,3 +24,7 @@
 ![AdobePhotoshop](https://img.shields.io/badge/-AdobePhotoshop-black?style=flat-square&logo=adobephotoshop)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=esthertozzo&show_icons=true&theme=tokyonight&hide=contribs&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esthertozzo&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
