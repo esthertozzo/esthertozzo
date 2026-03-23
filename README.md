@@ -1,5 +1,6 @@
-## Olá! sou Esther Tozzo 👋
+<h1 align="center">Olá! sou Esther Tozzo 👋</h1>
 
+--------------------------------------
 - 🔭 Engenharia de Software - FIAP
 - 📫 tozzo.est@gmail.com
 
